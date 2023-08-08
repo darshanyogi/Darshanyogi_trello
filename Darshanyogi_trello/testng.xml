@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Trello Testscript Automation">
+  <test name="Trello Test">
+    <classes>
+      <class name="com.qspider.atlasian.test.TrelloScriptTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

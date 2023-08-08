@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="7" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its url]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its url]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its url]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its url]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+    </line>
+    <line>
+      <![CDATA[cardname :webdriver]]>
+    </line>
+    <line>
+      <![CDATA[cardname :locator]]>
+    </line>
+    <line>
+      <![CDATA[cardname :xpath]]>
+    </line>
+    <line>
+      <![CDATA[cardname :screenshot]]>
+    </line>
+    <line>
+      <![CDATA[cardname :actionclass]]>
+    </line>
+    <line>
+      <![CDATA[cardsize :5]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+    </line>
+    <line>
+      <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its title]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed and verfied upon its url]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-29T11:53:20 IST" name="Default suite" finished-at="2023-03-29T12:05:19 IST" duration-ms="719438">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T11:53:20 IST" name="Default test" finished-at="2023-03-29T12:05:19 IST" duration-ms="719438">
+      <class name="com.qspider.atlasian.test.TrelloTestScript">
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:53:20 IST" name="configureBeforeMethod" finished-at="2023-03-29T11:53:34 IST" duration-ms="14279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="TrelloHomePageCheck()[pri:1, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:53:34 IST" name="TrelloHomePageCheck" finished-at="2023-03-29T11:53:39 IST" duration-ms="4496" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloHomePageCheck -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:53:39 IST" name="congigureAfterMethod" finished-at="2023-03-29T11:53:40 IST" duration-ms="1064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:53:40 IST" name="configureBeforeMethod" finished-at="2023-03-29T11:53:48 IST" duration-ms="8704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="TrelloLoginPageCheck()[pri:2, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:53:48 IST" name="TrelloLoginPageCheck" finished-at="2023-03-29T11:53:55 IST" duration-ms="6783" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloLoginPageCheck -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:53:55 IST" name="congigureAfterMethod" finished-at="2023-03-29T11:53:57 IST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:53:57 IST" name="configureBeforeMethod" finished-at="2023-03-29T11:54:06 IST" duration-ms="8698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="TrelloBoardspage()[pri:3, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:54:06 IST" name="TrelloBoardspage" finished-at="2023-03-29T11:55:21 IST" duration-ms="74697" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloBoardspage -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:55:21 IST" name="congigureAfterMethod" finished-at="2023-03-29T11:55:22 IST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:55:22 IST" name="configureBeforeMethod" finished-at="2023-03-29T11:55:31 IST" duration-ms="8716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="TrelloCreateAndDeleteBoard()[pri:4, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:55:31 IST" name="TrelloCreateAndDeleteBoard" finished-at="2023-03-29T11:57:03 IST" duration-ms="92041" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloCreateAndDeleteBoard -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:57:03 IST" name="congigureAfterMethod" finished-at="2023-03-29T11:57:04 IST" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:57:04 IST" name="configureBeforeMethod" finished-at="2023-03-29T11:57:12 IST" duration-ms="8221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="CreateBoardAndCreate2ListInTheBoard()[pri:5, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:57:12 IST" name="CreateBoardAndCreate2ListInTheBoard" finished-at="2023-03-29T11:58:49 IST" duration-ms="96404" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateBoardAndCreate2ListInTheBoard -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:58:49 IST" name="congigureAfterMethod" finished-at="2023-03-29T11:58:50 IST" duration-ms="1626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:58:50 IST" name="configureBeforeMethod" finished-at="2023-03-29T11:58:59 IST" duration-ms="8332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="CreateBoardAndSwapThe2CreatedListInTheBoard()[pri:6, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T11:58:59 IST" name="CreateBoardAndSwapThe2CreatedListInTheBoard" finished-at="2023-03-29T12:00:40 IST" duration-ms="101069" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateBoardAndSwapThe2CreatedListInTheBoard -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:00:40 IST" name="congigureAfterMethod" finished-at="2023-03-29T12:00:41 IST" duration-ms="1143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:00:41 IST" name="configureBeforeMethod" finished-at="2023-03-29T12:00:50 IST" duration-ms="8900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="CreateBoardAndArrangeTheCardsInTheAlphabeticalOrder()[pri:7, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:00:50 IST" name="CreateBoardAndArrangeTheCardsInTheAlphabeticalOrder" finished-at="2023-03-29T12:01:45 IST" duration-ms="54702" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <span class="js-add-a-card">...</span> is not clickable at point (623, 148). Other element would receive the click: <span class="quick-card-editor-buttons-item-text">...</span>
+  (Session info: chrome=111.0.5563.112)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [29d4c312ee9d2b55dfc41bee9449f7c4, clickElement {id=cf283dec-d1bf-45e3-9598-3e5ddc1e147b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.112, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60679}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60679/devtoo..., se:cdpVersion: 111.0.5563.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (29d4c312ee9d2b55dfc41bee9449f7c4)] -> xpath: (//span[text()='Add a card'])[2]]
+Session ID: 29d4c312ee9d2b55dfc41bee9449f7c4]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="js-add-a-card">...</span> is not clickable at point (623, 148). Other element would receive the click: <span class="quick-card-editor-buttons-item-text">...</span>
+  (Session info: chrome=111.0.5563.112)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [29d4c312ee9d2b55dfc41bee9449f7c4, clickElement {id=cf283dec-d1bf-45e3-9598-3e5ddc1e147b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.112, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60679}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60679/devtoo..., se:cdpVersion: 111.0.5563.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (29d4c312ee9d2b55dfc41bee9449f7c4)] -> xpath: (//span[text()='Add a card'])[2]]
+Session ID: 29d4c312ee9d2b55dfc41bee9449f7c4
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at com.qspider.atlasian.test.TrelloTestScript.CreateBoardAndArrangeTheCardsInTheAlphabeticalOrder(TrelloTestScript.java:345)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateBoardAndArrangeTheCardsInTheAlphabeticalOrder -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:01:45 IST" name="congigureAfterMethod" finished-at="2023-03-29T12:01:46 IST" duration-ms="1691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:01:46 IST" name="configureBeforeMethod" finished-at="2023-03-29T12:01:55 IST" duration-ms="8465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="Create2BoardsAndCreateListIncludingCardsAndMoveTheFullyLoadedListToOneMoreBoard()[pri:8, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:01:55 IST" name="Create2BoardsAndCreateListIncludingCardsAndMoveTheFullyLoadedListToOneMoreBoard" finished-at="2023-03-29T12:03:19 IST" duration-ms="84467" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Close']"}
+  (Session info: chrome=111.0.5563.112)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [703e4938e7fb094931deb79b3b9ee98a, findElement {using=xpath, value=//input[@value='Close']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.112, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60794}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60794/devtoo..., se:cdpVersion: 111.0.5563.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 703e4938e7fb094931deb79b3b9ee98a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Close']"}
+  (Session info: chrome=111.0.5563.112)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [703e4938e7fb094931deb79b3b9ee98a, findElement {using=xpath, value=//input[@value='Close']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.112, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60794}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60794/devtoo..., se:cdpVersion: 111.0.5563.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 703e4938e7fb094931deb79b3b9ee98a
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at com.qspider.atlasian.test.TrelloTestScript.TrelloDeleteBoard(TrelloTestScript.java:520)
+at com.qspider.atlasian.test.TrelloTestScript.Create2BoardsAndCreateListIncludingCardsAndMoveTheFullyLoadedListToOneMoreBoard(TrelloTestScript.java:430)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Create2BoardsAndCreateListIncludingCardsAndMoveTheFullyLoadedListToOneMoreBoard -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:03:19 IST" name="congigureAfterMethod" finished-at="2023-03-29T12:03:21 IST" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+        <test-method is-config="true" signature="configureBeforeMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:03:21 IST" name="configureBeforeMethod" finished-at="2023-03-29T12:03:30 IST" duration-ms="8739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeMethod -->
+        <test-method signature="CreateBoardAndCreateTheListInTheBoardAndGetTheCardsListCount()[pri:9, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:03:30 IST" name="CreateBoardAndCreateTheListInTheBoardAndGetTheCardsListCount" finished-at="2023-03-29T12:05:18 IST" duration-ms="108062" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed  and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login Page is displayed And it is Verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Login with Atlassian account page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the Url]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Created Boards page is displayed and it is verified upon its title]]>
+            </line>
+            <line>
+              <![CDATA[cardname :webdriver]]>
+            </line>
+            <line>
+              <![CDATA[cardname :locator]]>
+            </line>
+            <line>
+              <![CDATA[cardname :xpath]]>
+            </line>
+            <line>
+              <![CDATA[cardname :screenshot]]>
+            </line>
+            <line>
+              <![CDATA[cardname :actionclass]]>
+            </line>
+            <line>
+              <![CDATA[cardsize :5]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Board profile page is displyed and it is verified upon the url]]>
+            </line>
+            <line>
+              <![CDATA[Atlassian Logout page is displayed and it is verified upon the title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its title]]>
+            </line>
+            <line>
+              <![CDATA[Home page is displayed and verfied upon its url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateBoardAndCreateTheListInTheBoardAndGetTheCardsListCount -->
+        <test-method is-config="true" signature="congigureAfterMethod()[pri:0, instance:com.qspider.atlasian.test.TrelloTestScript@158d2680]" started-at="2023-03-29T12:05:18 IST" name="congigureAfterMethod" finished-at="2023-03-29T12:05:19 IST" duration-ms="1201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congigureAfterMethod -->
+      </class> <!-- com.qspider.atlasian.test.TrelloTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
